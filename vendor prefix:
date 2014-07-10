@@ -1,0 +1,13 @@
+vendor prefix:
+'webkit'... 'moz-'...etc
+[*presets that you find on the internet usually have this kind of syntax to adjust code for different types of browsers i.e. Chrome, Safari, etc.. ]
+
+display: none;
+[*Use this to 'hide' content that you don't want to appear until a certain function (i.e. 'click' or 'scroll') is performed by the user ]
+-- 1 function that adds class; 1 function that removes class
+
+console.log - to see when things are happening in the 'console'
+
+"simplicity first"
+
+*fix background image
